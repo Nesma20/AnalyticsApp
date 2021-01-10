@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Analytics</string>
+
+    <string name="rsrp_txt">RSRP</string>
+    <string name="rsrq_txt">RSRQ</string>
+    <string name="sinr_txt">SINR</string>
+</resources>
